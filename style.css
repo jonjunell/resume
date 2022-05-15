@@ -37,7 +37,7 @@ body {
   border-bottom: 1px solid;
   font-size: 1em;
   text-transform: uppercase;
-  color: #018484;
+  color: #030184;
   margin-bottom: -5px;
   display: flex;
   justify-content: space-between;
@@ -58,7 +58,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  background-color: #018484;
+  background-color: #030184;
 }
 .header .contactName {
   font-size: 3em;
